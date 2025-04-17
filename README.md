@@ -49,5 +49,7 @@ To understand patterns in car insurance claims so we can identify risks, improve
  - Coverage Zone
     
 ## Data Visualization 
-![table](https://github.com/Ola-ykay/Car-Insurance-Analysis/blob/main/car-insurance%20data.png)
+![data](https://github.com/Ola-ykay/Car-Insurance-Analysis/blob/main/car-insurance%20data.png)
+![Dashboard]()
+![Table](https://github.com/Ola-ykay/Car-Insurance-Analysis/blob/main/car-insurance-table.png)
 
