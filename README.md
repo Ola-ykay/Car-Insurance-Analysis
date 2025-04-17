@@ -48,4 +48,6 @@ To understand patterns in car insurance claims so we can identify risks, improve
  - Marital Status
  - Coverage Zone
     
-## Data Visualization
+## Data Visualization 
+![table](https://github.com/Ola-ykay/Car-Insurance-Analysis/blob/main/car-insurance%20data.png)
+
