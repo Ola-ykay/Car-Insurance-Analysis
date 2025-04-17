@@ -9,7 +9,7 @@
 - [Insights](#insights)
 - [Data Visualization](#data-visualization)
 
-## project Overview
+## Project Overview
 This project analyzes customer car insurance data to uncover patterns and insights related to claims, demographics, car attributes, and financial behavior. By examining variables such as car make/model, gender, income, and education, the analysis aims to identify high-risk groups, understand claim behaviors, and support data-driven insurance strategies.
 
 ## Goal
@@ -50,6 +50,6 @@ To understand patterns in car insurance claims so we can identify risks, improve
     
 ## Data Visualization 
 ![data](https://github.com/Ola-ykay/Car-Insurance-Analysis/blob/main/car-insurance%20data.png)
-![Dashboard]()
+![Dashboard](https://github.com/Ola-ykay/Car-Insurance-Analysis/blob/main/car-insurance-dashboard.png)
 ![Table](https://github.com/Ola-ykay/Car-Insurance-Analysis/blob/main/car-insurance-table.png)
 
