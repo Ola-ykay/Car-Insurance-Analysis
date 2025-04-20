@@ -13,7 +13,7 @@
 This project analyzes customer car insurance data to uncover patterns and insights related to claims, demographics, car attributes, and financial behavior. By examining variables such as car make/model, gender, income, and education, the analysis aims to identify high-risk groups, understand claim behaviors, and support data-driven insurance strategies.
 
 ## Goal
-To understand patterns in car insurance claims so we can identify risks, improve decision-making, and offer better insurance plans to customers."
+To understand patterns in car insurance claims so we can identify risks, improve decision-making, and offer better insurance plans to customers.
 
 ## Objectives
 - Analyze the distribution of car usage by gender and presence of kids driving.
